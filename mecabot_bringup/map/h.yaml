@@ -1,0 +1,46 @@
+h1:
+ elevator1:
+  position:
+   x: -4.271885311848325
+   y: 0.7551684644597553
+   z: 0.0
+  orientation:
+   x: 0.0
+   y: 0.0
+   z: -0.6551721652968159
+   w: 0.7554796051650116
+ elevator2:
+  position:
+   x: 3.592785643087701
+   y: 64859670374056
+   z: 0.0
+  orientation:
+   x: 0.0
+   y: 0.0
+   z: 0.08528586246782618
+   w: 0.996356523370585
+
+h2:
+ elevator1:
+  position:
+   x: 0.0
+   y: 0.0
+   z: 0.0
+  orientation:
+   x: 0.0
+   y: 0.0
+   z: 0.0
+   w: 1.0
+
+h3:
+ elevator2:
+  position:
+   x: 0.0
+   y: 0.0
+   z: 0.0
+  orientation:
+   x: 0.0
+   y: 0.0
+   z: 0.0
+   w: 1.0
+ 
