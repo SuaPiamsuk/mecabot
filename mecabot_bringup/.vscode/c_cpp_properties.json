@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/nuc/neobotix_workspace/install/neo_srvs2/include/**",
+        "/home/nuc/neobotix_workspace/install/neo_msgs2/include/**",
+        "/home/nuc/neobotix_workspace/install/neo_localization2/include/**",
+        "/home/nuc/neobotix_workspace/install/neo_local_planner/include/**",
+        "/home/nuc/neobotix_workspace/install/neo_common2/include/**",
+        "/home/nuc/mpo_500_workspace/install/neo_srvs2/include/**",
+        "/home/nuc/mpo_500_workspace/install/neo_sick_s300-2/include/**",
+        "/home/nuc/mpo_500_workspace/install/neo_msgs2/include/**",
+        "/home/nuc/mpo_500_workspace/install/neo_localization2/include/**",
+        "/home/nuc/mpo_500_workspace/install/neo_local_planner/include/**",
+        "/home/nuc/mpo_500_workspace/install/neo_common2/include/**",
+        "/home/nuc/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/home/nuc/turtlebot3_ws/install/turtlebot3_msgs/include/**",
+        "/home/nuc/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/nuc/realsense_ws/install/realsense2_camera/include/**",
+        "/home/nuc/realsense_ws/install/realsense2_camera_msgs/include/**",
+        "/home/nuc/ros2_ws/install/irobot_create_nodes/include/**",
+        "/home/nuc/ros2_ws/install/irobot_create_ignition_toolbox/include/**",
+        "/home/nuc/ros2_ws/install/irobot_create_gazebo_plugins/include/**",
+        "/home/nuc/ros2_ws/install/irobot_create_toolbox/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/nuc/ros2_ws/src/x_4wheel_robot/mecabot_bringup/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
