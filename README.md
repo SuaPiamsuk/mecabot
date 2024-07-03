@@ -1,3 +1,7 @@
+# Requirement
+- Ubuntu 22.04
+- ROS2 HUMBLE
+
 # Publish urdf 
 
 This launch file can show Robotmodel on Rviz2.
@@ -38,6 +42,14 @@ if you want to view tree you need to install from source.
 ```
 git clone https://github.com/splintered-reality/py_trees_ros_viewer
 ```
+***Note**: it may error when you build. You should install dependency that show in error.
+
+And use this cmd to view tree.
+
+```
+py-trees-tree-viewer
+```
+
 ![Screenshot from 2024-07-03 09-32-07](https://github.com/SuaPiamsuk/mecabot/assets/56068294/d8fb7041-27bf-492f-a5dc-98e4115d3aab)
 
 
