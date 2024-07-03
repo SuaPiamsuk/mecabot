@@ -9,8 +9,8 @@ ros2 launch mecabot_bringup mecabot_state_publisher.launch.py
 # Simulation with Gazebo
 
 The robot can simulate lidar, imu, movement but it still have problem 
-1. Movement is not real value.
-2. Odom data after sensor fusion is invalid.
+1. ความเร็วในการเคลื่อนที่ไม่ตรงกับ /cmd_vel แต่ถ้าปรับมวลลดลงจะทำให้สามารถเคลื่อนที่ใกล้กับค่าจริงมากขึ้น.
+2. Odom data after fuse sensor is invalid.
 
 You can try by this command.
 ```
