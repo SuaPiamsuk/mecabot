@@ -4,6 +4,11 @@
 ros2 launch mecabot_bringup mecabot_state_publisher.launch.py
 ```
 
+# Behavior tree test
+```
+ros2 run mecabot_behavior_tree main_root.py
+```
+
 # Simulation with Gazebo
 ```
 ros2 launch mecabot_description spawn.launch.py
