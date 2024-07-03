@@ -8,6 +8,8 @@ ros2 launch mecabot_bringup mecabot_state_publisher.launch.py
 ```
 ros2 run mecabot_behavior_tree main_root.py
 ```
+![alt text](https://github.com/SuaPiamsuk/mecabot/tree/main/media/main_behavior.png)
+
 
 # Simulation with Gazebo
 ```
